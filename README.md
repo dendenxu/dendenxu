@@ -4,6 +4,8 @@ It's really really nice to meet you here!
 
 I love and feel passionate about Computer Graphics/Vision.
 
+Well, I mainly use GitHub to manage my private repositories (typically course projects///)
+
 - 🔭 I'm currently a third-year undergraduate at Zhejiang University.
 - 🌱 I’m currently learning about ..., like, everything!
 - 🤔 I’m looking for help with how to sleep tight...
