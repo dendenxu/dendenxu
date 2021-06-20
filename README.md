@@ -2,6 +2,8 @@
 
 It's really really nice to meet you here!
 
+I love and feel passionate about Computer Graphics/Vision.
+
 - 🔭 I'm currently a third-year undergraduate at Zhejiang University.
 - 🌱 I’m currently learning about ..., like, everything!
 - 🤔 I’m looking for help with how to sleep tight...
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![dendenxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendenxu&show_icons=true&theme=onedark)
-)](https://github.com/dendenxu/github-readme-stats)
+[![dendenxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendenxu&show_icons=true&theme=onedark&count_private=true)
+](https://github.com/dendenxu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendenxu&show_icons=true&theme=onedark)](https://github.com/dendenxu/github-readme-stats)
