@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+It's really really nice to meet you here!
+
+- 🔭 I'm currently a third-year undergraduate at Zhejiang University.
+- 🌱 I’m currently learning about ..., like, everything!
+- 🤔 I’m looking for help with how to sleep tight...
+
 <!--
 **dendenxu/dendenxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![dendenxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendenxu)](https://github.com/dendenxu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendenxu)](https://github.com/dendenxu/github-readme-stats)
