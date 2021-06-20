@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![dendenxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendenxu)](https://github.com/dendenxu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendenxu)](https://github.com/dendenxu/github-readme-stats)
+[![dendenxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendenxu&show_icons=true&theme=onedark)
+)](https://github.com/dendenxu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendenxu&show_icons=true&theme=onedark)](https://github.com/dendenxu/github-readme-stats)
