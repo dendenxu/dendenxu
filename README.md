@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![dendenxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendenxu&count_private=true&show_icons=true&theme=onedark)
 ](https://github.com/dendenxu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendenxu&count_private=true&show_icons=true&theme=onedark)](https://github.com/dendenxu/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendenxu&count_private=true&show_icons=true&theme=onedark)](https://github.com/dendenxu/github-readme-stats) -->
