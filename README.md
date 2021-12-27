@@ -1,14 +1,26 @@
-### Hi there 👋
+### Hi!
 
-It's really really nice to meet you here!
+#### Some Gibberish
 
-I love and feel passionate about Computer Graphics/Vision.
+I'm so happy that you stubled upon this page!
 
-I mainly use GitHub to manage my private repositories (typically course projects///)
+In spite of the slightest chance of this happening, we meet in this vast ocean of information.
 
-- 🔭 I'm currently a third-year undergraduate at Zhejiang University.
+It's a joy to know there's a certain someone who cares a lot about you & your work, yes I'm talking to you, you made my day by visiting this otherwise lonely little hub. And I care about you too, sincerely.
+
+#### About Me
+
+I love and feel passionate about Computer Graphics/Vision, and 3D stuff interests me the most
+
+I mainly use GitHub to manage my private repositories (typically course projects)
+
+- 🔭 I'm currently a forth-year undergraduate at Zhejiang University.
 - 🌱 I’m currently learning about ..., like, everything!
-- 🤔 I’m looking for help with how to sleep tight...
+- 📫 E-mail: [zhenx@zju.edu.cn](mailto://zhenx@zju.edu.cn).
+
+I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
+
+- 💬 WeChat: `dendenxu`
 
 <!--
 **dendenxu/dendenxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
