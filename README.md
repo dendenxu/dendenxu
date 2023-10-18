@@ -14,7 +14,7 @@ I love and feel passionate about Computer Graphics/Vision, and 3D stuff interest
 
 I mainly use GitHub to manage my private repositories (typically course & research projects)
 
-- 🔭 I'm currently a first-year PhD candidate at Zhejiang University.
+- 🔭 I'm currently a second-year PhD candidate at Zhejiang University.
 - 🌱 I’m currently learning about ..., like, everything!
 - 📫 E-mail: [zhenx@zju.edu.cn](mailto://zhenx@zju.edu.cn).
 - 👨‍💻 Google Scholar: [Zhen Xu](https://scholar.google.com/citations?user=7LUQ3TYAAAAJ&hl=en)
