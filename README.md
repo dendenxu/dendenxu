@@ -16,8 +16,10 @@ I mainly use GitHub to manage my private repositories (typically course & resear
 
 - 🔭 I'm currently a second-year PhD candidate at Zhejiang University.
 - 🌱 I’m currently learning about ..., like, everything!
+- 🔬 My current research focuces on 3D/4D neural reconstruction and rendering, and digital humans.
 - 📫 E-mail: [zhenx@zju.edu.cn](mailto://zhenx@zju.edu.cn).
 - 👨‍💻 Google Scholar: [Zhen Xu](https://scholar.google.com/citations?user=7LUQ3TYAAAAJ&hl=en)
+- 😎 Personal Website: [zhenx.me](https://zhenx.me) 
 
 I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
 
